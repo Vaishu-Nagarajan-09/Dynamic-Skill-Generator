@@ -1,55 +1,54 @@
-Dynamic Skills Manager
+## Dynamic Skills Manager
 
 A simple React application that allows users to dynamically create skill input fields, enter skills, validate the form, and manage submitted skills.
 
-Features:
-Dynamically generate skill input fields
-Select the number of skills to enter
-Controlled inputs using React state
-Empty field validation
-Display validation messages for individual fields
-Submit and display skills in a table
-Edit submitted skills
-Reset all skill data
-Responsive UI
-Styled with Tailwind CSS
+## Features:
+- Dynamically generate skill input fields
+- Select the number of skills to enter
+- Controlled inputs using React state
+- Empty field validation
+- Display validation messages for individual fields
+- Submit and display skills in a table
+- Reset all skill data
+- Responsive UI
+- Styled with Tailwind CSS
 
-Technologies Used:
-React.js
-JavaScript
-Tailwind CSS
+## Technologies Used:
+- React.js
+- JavaScript
+- Tailwind CSS
 
-Installation:
+## Installation:
 
-Clone the repository:
+## Clone the repository:
 
 git clone YOUR_GITHUB_REPOSITORY_URL
 
-Navigate to the project:
+## Navigate to the project:
 
 cd dynamicskills
 
-Install dependencies:
+## Install dependencies:
 
 npm install
 
-Start the development server:
+## Start the development server:
 
 npm run dev
 
 Open the local URL shown in the terminal.
 
-Responsive Design:
+## Responsive Design:
 The application uses Tailwind CSS responsive utilities to provide a responsive layout across:
-Desktop
-Tablet
-Mobile
+- Desktop
+- Tablet
+- Mobile
 
-Learning Objective:
+## Learning Objective:
 
 This project was created to improve my understanding of React state management, dynamic form fields, form validation, array manipulation, and conditional rendering.
 
-Author
+## Author
 Vaishnavi N N
 
 Built with React.js and Tailwind CSS.
