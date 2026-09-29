@@ -22,7 +22,7 @@ A simple React application that allows users to dynamically create skill input f
 
 ## Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Vaishu-Nagarajan-09/Dynamic-Skill-Generator
 
 ## Navigate to the project:
 
