@@ -48,6 +48,9 @@ The application uses Tailwind CSS responsive utilities to provide a responsive l
 
 This project was created to improve my understanding of React state management, dynamic form fields, form validation, array manipulation, and conditional rendering.
 
+## Live Demo: 
+[Dynamic Skills Generator](https://dynamic-skills-generator.netlify.app/)
+
 ## Author
 Vaishnavi N N
 
