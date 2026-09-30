@@ -125,7 +125,7 @@ const App = () => {
                   type="button"
                   onClick={handleReset}
                   className="w-full bg-red-500 text-white font-medium
-                             py-2.5 rounded-lg hover:bg-red-700
+                             mt-4 py-3 rounded-lg hover:bg-red-700
                              transition duration-200">
                   RESET
                 </button>
