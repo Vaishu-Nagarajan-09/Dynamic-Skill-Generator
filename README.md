@@ -1,16 +1,57 @@
-# React + Vite
+## Dynamic Skills Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that allows users to dynamically create skill input fields, enter skills, validate the form, and manage submitted skills.
 
-Currently, two official plugins are available:
+## Features:
+- Dynamically generate skill input fields
+- Select the number of skills to enter
+- Controlled inputs using React state
+- Empty field validation
+- Display validation messages for individual fields
+- Submit and display skills in a table
+- Reset all skill data
+- Responsive UI
+- Styled with Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used:
+- React.js
+- JavaScript
+- Tailwind CSS
 
-## React Compiler
+## Installation:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Clone the repository:
 
-## Expanding the ESLint configuration
+git clone https://github.com/Vaishu-Nagarajan-09/Dynamic-Skill-Generator
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Navigate to the project:
+
+cd dynamicskills
+
+## Install dependencies:
+
+npm install
+
+## Start the development server:
+
+npm run dev
+
+Open the local URL shown in the terminal.
+
+## Responsive Design:
+The application uses Tailwind CSS responsive utilities to provide a responsive layout across:
+- Desktop
+- Tablet
+- Mobile
+
+## Learning Objective:
+
+This project was created to improve my understanding of React state management, dynamic form fields, form validation, array manipulation, and conditional rendering.
+
+## Live Demo: 
+[Dynamic Skills Generator](https://dynamic-skills-generator.netlify.app/)
+
+## Author
+Vaishnavi N N
+
+Built with React.js and Tailwind CSS.
